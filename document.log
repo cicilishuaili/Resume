@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  15 JAN 2021 21:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 NOV 2022 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1224,6 +1224,15 @@ LaTeX Font Info:    Font shape `T1/fla/bx/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `T1/fla/bx/n' in size <10> not available
 (Font)              Font shape `T1/fla/b/n' tried instead on input line 3.
 
+Overfull \hbox (28.23029pt too wide) in paragraph at lines 32--59
+[][] 
+ []
+
+
+Overfull \hbox (12.97034pt too wide) in paragraph at lines 32--59
+[] 
+ []
+
 (/usr/local/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd))
 LaTeX Font Info:    Try loading font information for OMS+fla on input line 109.
 
@@ -1248,7 +1257,7 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 Here is how much of TeX's memory you used:
  24034 strings out of 492995
  480011 string characters out of 6132704
- 929713 words of memory out of 5000000
+ 926713 words of memory out of 5000000
  27175 multiletter control sequences out of 15000+600000
  74797 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1261,7 +1270,7 @@ l/texlive/2017/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/
 local/texlive/2017/texmf-dist/fonts/type1/public/lato/Lato-Bol.pfb></usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/lato/Lato-Reg.pfb></usr/local/texliv
 e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on document.pdf (1 page, 1104749 bytes).
+Output written on document.pdf (1 page, 1103875 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
